@@ -1,0 +1,6 @@
+TIMELINE untuk saya kedepannya
+- Membuat Proses transaksi pada POS CI
+- Membuat Sistem Informasi Futsal menggunakan CI
+- Membuat Gallery Portofolio
+- Belajar tentang Git & GitHub
+- Belajar REST API
