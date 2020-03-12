@@ -3,7 +3,9 @@ FITUR TRANSAKSI POS
   * Memakai Library Form Validation dari CI
   * Memakai Booststrap 6
 - Proses
+  * Query Builder
+  * Flashdata
 - Controller
 - Item
 - Konsumen
-- Dll.
+- Struk/Barcode
