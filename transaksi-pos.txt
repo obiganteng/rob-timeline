@@ -1,0 +1,6 @@
+FITUR TRANSAKSI POS
+- Form Transaksi
+- Proses
+- Item
+- Konsumen
+- Dll.
