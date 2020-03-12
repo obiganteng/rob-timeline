@@ -1,0 +1,8 @@
+FITUR TRANSAKSI POS
+- Form Transaksi
+  * Memakai Library Form Validation dari CI
+  * Memakai Booststrap 6
+- Proses
+- Item
+- Konsumen
+- Dll.
