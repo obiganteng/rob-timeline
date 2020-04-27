@@ -5,7 +5,7 @@ FITUR TRANSAKSI POS
 - Proses
   * Query Builder
   * Flashdata
-- Controller
+- Controllered
 - Item
 - Konsumen
 - Struk/Barcode
